@@ -43,34 +43,35 @@ You can use **GUI** to open Jupyter Notebook or from the **command prompt** usin
 ```bash
 jupyter-notebook
 ```
-
+<img src="Images/abc.png"
 ## Jupyter Notebook Browser
-Jupyter Notebook Homepage ![alt text](https://git.txstate.edu/v-s191/MachineLearning/blob/master/images/Screen%20Shot%202019-09-08%20at%2010.01.20%20AM.png?raw=true)
+Jupyter Notebook Homepage <img src="../Images/Screen_Shot_2019-09-08_10.01.20_AM.png">
+
 
 ## Open a new Notebook
 Click on the **New** drop down box and Choose **Python3**
 
-New Jupyter Notebook ![alt text](https://git.txstate.edu/v-s191/MachineLearning/blob/master/images/Screen%20Shot%202019-09-08%20at%209.40.28%20AM.png?raw=true)
+New Jupyter Notebook <img src="../Images/Screen_Shot_2019-09-08_10.40.28_AM.png">
 
 
 ## Jupyter Notebook Editor
 
-Jupyter Notebook ![alt text](https://git.txstate.edu/v-s191/MachineLearning/blob/master/images/Screen%20Shot%202019-09-08%20at%209.43.12%20AM.png?raw=true)
+Jupyter Notebook <img src="../Images/Screen_Shot_2019-09-08_10.43.12_AM.png">
 
 ## Save your Notebook for later usage
 Double click on the **Untitled** text beside the Jupyter Logo.
 > By default auto save will be enabled
 
-Saving Your Work ![alt text](https://git.txstate.edu/v-s191/MachineLearning/blob/master/images/Screen%20Shot%202019-09-08%20at%209.48.34%20AM.png?raw=true)
+Saving Your Work <img src="../Images/Screen_Shot_2019-09-08_10.48.34_AM.png">
 
 ## Working with Notebook
 Type in Python syntax and press ``` Shift Enter ```
 
-Working with Notebook ![alt text](https://git.txstate.edu/v-s191/MachineLearning/blob/master/images/Screen%20Shot%202019-09-08%20at%209.51.09%20AM.png?raw=true)
+Working with Notebook <img src="../Images/Screen_Shot_2019-09-08_10.51.09_AM.png">
 
 
 For more details refer to 
-Jupyter Notebook Documentation ![alt text](https://jupyter.readthedocs.io/en/latest/running.html?raw=false)
+[Jupyter Notebook Documentation](https://jupyter.readthedocs.io/en/latest/running.html)
 
 
 # Installing OpenCV after the installation of Anaconda
