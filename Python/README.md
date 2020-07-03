@@ -56,18 +56,18 @@ New Jupyter Notebook <img src="../Images/Screen_Shot_2019-09-08_10.40.28_AM.png"
 
 ## Jupyter Notebook Editor
 
-Jupyter Notebook <img src="../Images/Screen_Shot_2019-09-08_10.43.12_AM.png">
+Jupyter Notebook <img src="../Images/Screen_Shot_2019-09-08_9.43.12_AM.png">
 
 ## Save your Notebook for later usage
 Double click on the **Untitled** text beside the Jupyter Logo.
 > By default auto save will be enabled
 
-Saving Your Work <img src="../Images/Screen_Shot_2019-09-08_10.48.34_AM.png">
+Saving Your Work <img src="../Images/Screen_Shot_2019-09-08_9.48.34_AM.png">
 
 ## Working with Notebook
 Type in Python syntax and press ``` Shift Enter ```
 
-Working with Notebook <img src="../Images/Screen_Shot_2019-09-08_10.51.09_AM.png">
+Working with Notebook <img src="../Images/Screen_Shot_2019-09-08_9.51.09_AM.png">
 
 
 For more details refer to 
