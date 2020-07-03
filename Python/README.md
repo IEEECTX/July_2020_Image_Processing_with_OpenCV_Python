@@ -51,7 +51,7 @@ Jupyter Notebook Homepage <img src="../Images/Screen_Shot_2019-09-08_10.01.20_AM
 ## Open a new Notebook
 Click on the **New** drop down box and Choose **Python3**
 
-New Jupyter Notebook <img src="../Images/Screen_Shot_2019-09-08_10.40.28_AM.png">
+New Jupyter Notebook <img src="../Images/Screen_Shot_2019-09-08_9.40.28_AM.png">
 
 
 ## Jupyter Notebook Editor
@@ -79,15 +79,5 @@ For more details refer to
 Open a command prompt (for windows) or open a shell (Linux/MacOS)
 
 ```bash
-  conda install -c conda-forge opencv
+  conda install -c anaconda opencv
 ```
-
-or if you wish to install a specific version follow the instructions below
-```bash
-  conda install -c conda-forge opencv=3.4.1
-```
-
-
-
-
-
